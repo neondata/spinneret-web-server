@@ -15,3 +15,4 @@ Add your content here.  Format your content with:
 
 = Embedded Networking Links=
   * [http://www.tcpipguide.com/]
+  * [http://www.simplecomtools.com/]  In the support/download section of their site there is a free TCP Test Tool and UDP Test Tool that are very helpful when trying to test embedded networked devices.
